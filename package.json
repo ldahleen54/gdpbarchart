@@ -1,0 +1,27 @@
+{
+  "name": "gdpbarchart",
+  "version": "1.0.0",
+  "description": "GDP Barchart using d3",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldahleen54/gdpbarchart.git"
+  },
+  "keywords": [
+    "d3",
+    "datavisualization",
+    "data-visualization"
+  ],
+  "author": "Luke Dahleen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ldahleen54/gdpbarchart/issues"
+  },
+  "homepage": "https://github.com/ldahleen54/gdpbarchart#readme",
+  "dependencies": {
+    "d3": "^5.14.2"
+  }
+}
