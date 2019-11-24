@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/ldahleen54/gdpbarchart#readme",
   "dependencies": {
-    "d3": "^5.14.2"
+    "d3": "^5.14.2",
+    "nodemon": "^2.0.1"
   }
 }
